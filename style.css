@@ -1,0 +1,18 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+img {
+  width: 150px;
+  height: 150px;
+}
+body{
+  background-color: #6bb9f5;
+  text-align: center;
+}
+p,h2,h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #5c7cff;
+}
+hr{
+  border-color: #5c7cff;
+}
